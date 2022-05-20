@@ -1,0 +1,580 @@
+﻿Main Image Size (Width x Height in Pixels):,2767,x,2475
+Mosaic Size (Width x Height in Pixels):,6381,x,5708
+Tiles with a image:,483
+Tiles without a image:,0
+Unique number of images used as tiles:,72
+Average Tile Quality:,79.38%,Score:,3577990
+Best Tile Quality:,100.00%,Score:,130619
+Worst Tile Quality:,0.00%,Score:,16851460
+How much can I modify every tile:,47%
+Minimum distance between duplicate tiles:,1
+Minimum distance between sequences:,0
+Algorithm:,High Quality
+Pattern:,Square
+Adapt Tile/Mosaic size:,Adapt Tile
+Multiple Tile Size 1/2:,0%
+Multiple Tile Size 1/4:,0%
+Tile Area Priority:,CENTER_WIDE
+Tile Size Priority:,AUTO
+Tile Split:,AUTO
+MaskFile:,
+Pixels x Inch PPI:500.000000
+
+Left,Top,Width,Height,Size KPixels,Image,ImageID/Sequence,Tile Quality,Tile Priority,Score,Used Count,Tile#,Image#
+0,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Elizabeth Eckford - One of the Little Rock Nine. September 6, 1957..jpg",0,78.98%,60%,3645163,7,1,19
+278,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Forming of the NAACP in the early 20th century..jpg",0,82.65%,60%,3031467,7,2,20
+556,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Elizabeth Eckford - One of the Little Rock Nine. September 6, 1957..jpg",0,80.07%,60%,3462543,7,3,19
+834,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Elizabeth Eckford - One of the Little Rock Nine. September 6, 1957..jpg",0,80.72%,60%,3355103,7,4,19
+1112,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Madam C.J. Walker - Self-made millionaire after inventing a line of African-American hair care products..jpg",0,75.85%,60%,4169007,7,5,36
+1390,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the devastation of the New Orleans Massacre of 1866..jpg",0,87.11%,60%,2285782,7,6,31
+1668,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Madam C.J. Walker - Self-made millionaire after inventing a line of African-American hair care products..jpg",0,77.94%,60%,3819612,7,7,36
+1946,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Madam C.J. Walker - Self-made millionaire after inventing a line of African-American hair care products..jpg",0,77.98%,60%,3813357,7,8,36
+2224,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Memphis sanitation workers on strike in 1968..jpg",0,74.95%,60%,4318394,7,9,42
+2502,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Madam C.J. Walker - Self-made millionaire after inventing a line of African-American hair care products..jpg",0,79.06%,60%,3632566,7,10,36
+2780,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Memphis sanitation workers on strike in 1968..jpg",0,75.85%,60%,4167903,7,11,42
+3058,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Madam C.J. Walker - Self-made millionaire after inventing a line of African-American hair care products..jpg",0,79.17%,60%,3612910,7,12,36
+3336,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Elizabeth Eckford - One of the Little Rock Nine. September 6, 1957..jpg",0,83.25%,60%,2930840,7,13,19
+3614,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Several African-Americans confront National Guardsmen during the Newark, New Jersey riots in response to police brutality on July 14, 1967..jpg",0,70.23%,60%,5108983,1,14,57
+3892,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Memphis sanitation workers on strike in 1968..jpg",0,76.33%,60%,4088855,7,15,42
+4170,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Memphis sanitation workers on strike in 1968..jpg",0,76.06%,60%,4134039,7,16,42
+4448,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Memphis sanitation workers on strike in 1968..jpg",0,75.86%,60%,4167399,7,17,42
+4726,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two terrified African-American girls flee police officers during a race riot in the Bedford-Stuyvesant neighborhood of Brooklyn on July 21, 1964..jpg",0,82.49%,60%,3058181,7,18,66
+5004,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Elizabeth Eckford - One of the Little Rock Nine. September 6, 1957..jpg",0,83.13%,60%,2951737,7,19,19
+5282,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Memphis sanitation workers on strike in 1968..jpg",0,75.12%,60%,4290852,7,20,42
+5560,0,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Madam C.J. Walker - Self-made millionaire after inventing a line of African-American hair care products..jpg",0,78.36%,60%,3749065,7,21,36
+5838,0,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the devastation of the New Orleans Massacre of 1866..jpg",0,87.48%,60%,2224046,7,22,31
+6112,0,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Elizabeth Eckford - One of the Little Rock Nine. September 6, 1957..jpg",0,81.98%,60%,3143210,7,23,19
+0,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the devastation of the New Orleans Massacre of 1866..jpg",0,86.36%,60%,2411920,7,24,31
+278,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An officer threatening to use force at a Harlem riot in 1964..jpeg",0,91.60%,100%,1534851,7,25,13
+556,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An officer threatening to use force at a Harlem riot in 1964..jpeg",0,91.90%,100%,1484784,7,26,13
+834,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An officer threatening to use force at a Harlem riot in 1964..jpeg",0,92.48%,100%,1387882,7,27,13
+1112,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An officer threatening to use force at a Harlem riot in 1964..jpeg",0,92.71%,100%,1348931,7,28,13
+1390,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the devastation of the New Orleans Massacre of 1866..jpg",0,88.68%,100%,2023259,7,29,31
+1668,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An officer threatening to use force at a Harlem riot in 1964..jpeg",0,93.23%,100%,1263157,7,30,13
+1946,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Scene from the New York City Race Riot of 1900..jpg",0,80.06%,100%,3464182,7,31,60
+2224,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On March 29, 1968 in Memphis, U.S. National Guard troops faced off with Civil Rights marchers..jpg",0,84.69%,100%,2691066,7,32,48
+2502,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Scene from the New York City Race Riot of 1900..jpg",0,80.90%,100%,3323564,7,33,60
+2780,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On May 29, 1968, Washington D.C. police tussle with a demonstrator of the Poor Peoples Campaign for civil rights and poverty relief during a protest at The Supreme Court..jpg",0,86.03%,100%,2467151,7,34,61
+3058,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Cincinnati Race Riots of 1836..jpg",0,90.97%,100%,1640284,7,35,32
+3336,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police officers walk with a police dog that bears its teeth and barks at African-American demonstrators during protests to end racial segregation. Cambridge, Maryland. July 1, 1963..jpg",0,33.21%,100%,11297770,7,36,51
+3614,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mob beats Freedom Riders who've arrived at the bus station in Birmingham, Alabama. May 1961..jpg",0,88.97%,100%,1974698,7,37,4
+3892,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Camilla Massacre of 1868..jpg",0,93.08%,100%,1287101,7,38,45
+4170,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Scene from the New York City Race Riot of 1900..jpg",0,81.34%,100%,3251451,7,39,60
+4448,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Cincinnati Race Riots of 1836..jpg",0,90.75%,100%,1676635,7,40,32
+4726,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police K-9 units being deployed to manage crowds of protesters during the Birmingham Campaign of the civil rights movement in May 1963..jpg",0,93.33%,100%,1246167,7,41,55
+5004,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Forming of the NAACP in the early 20th century..jpg",0,87.24%,100%,2264794,7,42,20
+5282,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Scene from the New York City Race Riot of 1900..jpg",0,80.73%,100%,3352108,7,43,60
+5560,272,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Scene from the New York City Race Riot of 1900..jpg",0,80.26%,100%,3430879,7,44,60
+5838,272,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the devastation of the New Orleans Massacre of 1866..jpg",0,88.82%,100%,2000444,7,45,31
+6112,272,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Memphis sanitation workers on strike in 1968..jpg",0,76.83%,60%,4005033,7,46,42
+0,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Madam C.J. Walker - Self-made millionaire after inventing a line of African-American hair care products..jpg",0,79.00%,60%,3641512,7,47,36
+278,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An officer threatening to use force at a Harlem riot in 1964..jpeg",0,92.82%,100%,1331159,7,48,13
+556,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An officer threatening to use force at a Harlem riot in 1964..jpeg",0,93.32%,100%,1247869,7,49,13
+834,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Scene from the New York City Race Riot of 1900..jpg",0,80.55%,100%,3382118,7,50,60
+1112,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting African Americans being attacked during the Memphis Race Riots of 1866..jpg",0,90.64%,100%,1695486,7,51,44
+1390,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On March 29, 1968 in Memphis, U.S. National Guard troops faced off with Civil Rights marchers..jpg",0,86.06%,100%,2460937,7,52,48
+1668,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On May 29, 1968, Washington D.C. police tussle with a demonstrator of the Poor Peoples Campaign for civil rights and poverty relief during a protest at The Supreme Court..jpg",0,87.44%,100%,2231209,7,53,61
+1946,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a man during the Watts riots in Los Angeles. August 1965..jpg",0,83.89%,100%,2824537,7,54,54
+2224,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting African Americans being attacked during the Memphis Race Riots of 1866..jpg",0,91.85%,100%,1493883,7,55,44
+2502,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\President Lyndon B. Johnson shakes hands with civil rights leader Martin Luther King Jr. after signing the Civil Rights Act of 1964..jpg",0,89.58%,100%,1873658,7,56,56
+2780,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police toss a demonstrator into a mass of protesters that had been rallying at the U.S. Consulate in support of civil rights activists in Alabama on March 16, 1966..jpg",0,95.20%,100%,932763,7,57,62
+3058,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Cincinnati Race Riots of 1836..jpg",0,91.86%,100%,1491808,7,58,32
+3336,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two terrified African-American girls flee police officers during a race riot in the Bedford-Stuyvesant neighborhood of Brooklyn on July 21, 1964..jpg",0,52.25%,100%,8114705,7,59,66
+3614,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\People wait in line for their housing assignment at the Manzanar internment camp in the California desert in 1942. More than 110,000 people of Japanese ancestry were displaced during WWII..jpg",0,80.83%,100%,3336718,7,60,53
+3892,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Forming of the NAACP in the early 20th century..jpg",0,85.15%,100%,2613488,7,61,20
+4170,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a man during the Watts riots in Los Angeles. August 1965..jpg",0,85.48%,100%,2557999,7,62,54
+4448,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Vigilantes burn record press building in Wilmington Race Riot. 1898..jpg",0,88.97%,100%,1974905,7,63,69
+4726,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators hold signs and join hands during the March on Washington on August 28, 1963..jpg",0,96.11%,100%,780224,7,64,22
+5004,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting African Americans being attacked during the Memphis Race Riots of 1866..jpg",0,91.86%,100%,1491725,7,65,44
+5282,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting 1906 Atlanta Race Massacre..jpg",0,92.92%,100%,1314327,7,66,25
+5560,544,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators hold signs and join hands during the March on Washington on August 28, 1963..jpg",0,93.83%,100%,1161824,7,67,22
+5838,544,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young girls join hands while riding the bus together during the initial phases of the integration of the school system in Boston, Massachusetts. September 15, 1975..jpg",0,82.51%,100%,3055806,7,68,72
+6112,544,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators rally in support of jailed civil rights leader Wally Nelson. Location unspecified. Circa 1965..jpg",0,81.24%,60%,3267474,7,69,18
+0,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators rally in support of jailed civil rights leader Wally Nelson. Location unspecified. Circa 1965..jpg",0,79.79%,60%,3510597,7,70,18
+278,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators rally in support of jailed civil rights leader Wally Nelson. Location unspecified. Circa 1965..jpg",0,80.84%,100%,3334752,7,71,18
+556,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting African Americans being attacked during the Memphis Race Riots of 1866..jpg",0,91.41%,100%,1566186,7,72,44
+834,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a man during the Watts riots in Los Angeles. August 1965..jpg",0,84.36%,100%,2746276,7,73,54
+1112,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\President Lyndon B. Johnson shakes hands with civil rights leader Martin Luther King Jr. after signing the Civil Rights Act of 1964..jpg",0,90.38%,100%,1738387,7,74,56
+1390,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting African Americans being attacked during the Memphis Race Riots of 1866..jpg",0,92.27%,100%,1423521,7,75,44
+1668,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young girls join hands while riding the bus together during the initial phases of the integration of the school system in Boston, Massachusetts. September 15, 1975..jpg",0,85.73%,100%,2516379,7,76,72
+1946,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a man during the Watts riots in Los Angeles. August 1965..jpg",0,87.22%,100%,2267075,7,77,54
+2224,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young girls join hands while riding the bus together during the initial phases of the integration of the school system in Boston, Massachusetts. September 15, 1975..jpg",0,84.56%,100%,2712356,7,78,72
+2502,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leader Ralph Abernathy(left, behind priest), his children, as well as Mr. and Mrs. Martin Luther King Jr. lead the Selma to Montgomery civil rights march through Alabama in 1965..jpg",0,87.93%,100%,2149002,7,79,17
+2780,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Hiram Rhodes Revels - First African American member fo the United States Senate in 1870..jpg",0,96.31%,100%,747152,7,80,23
+3058,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators carrying photographs of Lieutenant Thomas Gilligan march on 125th Street near Seventh Ave. during the Harlem Riots of 1964..jpg",0,93.02%,100%,1298016,7,81,24
+3336,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two terrified African-American girls flee police officers during a race riot in the Bedford-Stuyvesant neighborhood of Brooklyn on July 21, 1964..jpg",0,53.94%,100%,7832250,7,82,66
+3614,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting 1906 Atlanta Race Massacre..jpg",0,67.50%,100%,5564781,7,83,25
+3892,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Cincinnati Race Riots of 1836..jpg",0,93.96%,100%,1141209,7,84,32
+4170,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Camilla Massacre of 1868..jpg",0,97.92%,100%,478775,7,85,45
+4448,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Forming of the NAACP in the early 20th century..jpg",0,89.43%,100%,1898221,7,86,20
+4726,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young girls join hands while riding the bus together during the initial phases of the integration of the school system in Boston, Massachusetts. September 15, 1975..jpg",0,87.30%,100%,2253809,7,87,72
+5004,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two terrified African-American girls flee police officers during a race riot in the Bedford-Stuyvesant neighborhood of Brooklyn on July 21, 1964..jpg",0,87.04%,100%,2298234,7,88,66
+5282,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police toss a demonstrator into a mass of protesters that had been rallying at the U.S. Consulate in support of civil rights activists in Alabama on March 16, 1966..jpg",0,86.86%,100%,2327876,7,89,62
+5560,816,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police toss a demonstrator into a mass of protesters that had been rallying at the U.S. Consulate in support of civil rights activists in Alabama on March 16, 1966..jpg",0,92.23%,100%,1429007,7,90,62
+5838,816,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police toss a demonstrator into a mass of protesters that had been rallying at the U.S. Consulate in support of civil rights activists in Alabama on March 16, 1966..jpg",0,97.59%,100%,534198,7,91,62
+6112,816,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators rally in support of jailed civil rights leader Wally Nelson. Location unspecified. Circa 1965..jpg",0,83.17%,60%,2945438,7,92,18
+0,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators rally in support of jailed civil rights leader Wally Nelson. Location unspecified. Circa 1965..jpg",0,82.52%,60%,3053150,7,93,18
+278,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting African Americans being attacked during the Memphis Race Riots of 1866..jpg",0,92.32%,100%,1414066,7,94,44
+556,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a man during the Watts riots in Los Angeles. August 1965..jpg",0,86.92%,100%,2317276,7,95,54
+834,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting African Americans being attacked during the Memphis Race Riots of 1866..jpg",0,93.08%,100%,1287347,7,96,44
+1112,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a man during the Watts riots in Los Angeles. August 1965..jpg",0,88.17%,100%,2109312,7,97,54
+1390,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young girls join hands while riding the bus together during the initial phases of the integration of the school system in Boston, Massachusetts. September 15, 1975..jpg",0,87.77%,100%,2175533,7,98,72
+1668,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police carry a young woman into a patrol wagon during a civil rights demonstration in Brooklyn, New York. 1963..jpg",0,86.87%,100%,2325290,7,99,65
+1946,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police carry a young woman into a patrol wagon during a civil rights demonstration in Brooklyn, New York. 1963..jpg",0,87.51%,100%,2218456,7,100,65
+2224,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil Rights March on Washington, D.C. (Leaders marchig from the Washington Monument to the Lincoln Memorial) 1963..jpg",0,97.81%,100%,496951,7,101,16
+2502,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two terrified African-American girls flee police officers during a race riot in the Bedford-Stuyvesant neighborhood of Brooklyn on July 21, 1964..jpg",0,54.15%,100%,7797696,7,102,66
+2780,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Hiram Rhodes Revels - First African American member fo the United States Senate in 1870..jpg",0,96.74%,100%,675116,7,103,23
+3058,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators carrying photographs of Lieutenant Thomas Gilligan march on 125th Street near Seventh Ave. during the Harlem Riots of 1964..jpg",0,93.62%,100%,1196918,7,104,24
+3336,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\People wait in line for their housing assignment at the Manzanar internment camp in the California desert in 1942. More than 110,000 people of Japanese ancestry were displaced during WWII..jpg",0,81.73%,100%,3185449,7,105,53
+3614,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Hiram Rhodes Revels - First African American member fo the United States Senate in 1870..jpg",0,95.66%,100%,856768,7,106,23
+3892,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\President Lyndon B. Johnson shakes hands with civil rights leader Martin Luther King Jr. after signing the Civil Rights Act of 1964..jpg",0,93.92%,100%,1147513,7,107,56
+4170,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police toss a demonstrator into a mass of protesters that had been rallying at the U.S. Consulate in support of civil rights activists in Alabama on March 16, 1966..jpg",0,96.07%,100%,787666,7,108,62
+4448,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police carry a young woman into a patrol wagon during a civil rights demonstration in Brooklyn, New York. 1963..jpg",0,88.73%,100%,2014968,7,109,65
+4726,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Camilla Massacre of 1868..jpg",0,97.48%,100%,552265,7,110,45
+5004,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mob beats Freedom Riders who've arrived at the bus station in Birmingham, Alabama. May 1961..jpg",0,87.79%,100%,2172220,7,111,4
+5282,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leader Ralph Abernathy(left, behind priest), his children, as well as Mr. and Mrs. Martin Luther King Jr. lead the Selma to Montgomery civil rights march through Alabama in 1965..jpg",0,88.21%,100%,2101208,7,112,17
+5560,1088,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the devastation of the New Orleans Massacre of 1866..jpg",0,92.52%,100%,1381672,7,113,31
+5838,1088,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On May 29, 1968, Washington D.C. police tussle with a demonstrator of the Poor Peoples Campaign for civil rights and poverty relief during a protest at The Supreme Court..jpg",0,91.04%,100%,1628201,7,114,61
+6112,1088,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A police dog attacks an African-American protester during an anti-segregation demonstration in Birmingham, Alabama on May 4, 1963..jpg",0,84.27%,60%,2761635,4,115,6
+0,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators rally in support of jailed civil rights leader Wally Nelson. Location unspecified. Circa 1965..jpg",0,84.69%,60%,2691415,7,116,18
+278,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a man during the Watts riots in Los Angeles. August 1965..jpg",0,88.59%,100%,2037984,7,117,54
+556,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Anti Civil War draft rioters at Lexington Avenue in New York, 1863..jpg",0,94.52%,100%,1046653,7,118,14
+834,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\The George Floyd mural at 38th in Chicago in summer 2020..jpg",0,93.50%,100%,1216995,7,119,63
+1112,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Forming of the NAACP in the early 20th century..jpg",0,87.27%,100%,2258580,7,120,20
+1390,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Anti Civil War draft rioters at Lexington Avenue in New York, 1863..jpg",0,95.94%,100%,809251,7,121,14
+1668,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866 and the aftermath..jpeg",0,91.53%,100%,1546421,7,122,33
+1946,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Anti Civil War draft rioters at Lexington Avenue in New York, 1863..jpg",0,96.42%,100%,728863,7,123,14
+2224,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators carrying photographs of Lieutenant Thomas Gilligan march on 125th Street near Seventh Ave. during the Harlem Riots of 1964..jpg",0,94.74%,100%,1009809,7,124,24
+2502,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Elizabeth Eckford - One of the Little Rock Nine. September 6, 1957..jpg",0,40.90%,100%,10012603,7,125,19
+2780,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Hiram Rhodes Revels - First African American member fo the United States Senate in 1870..jpg",0,95.68%,100%,852696,7,126,23
+3058,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\March on Washington. August 28, 1963..jpg",0,93.95%,100%,1142264,7,127,40
+3336,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\People wait in line for their housing assignment at the Manzanar internment camp in the California desert in 1942. More than 110,000 people of Japanese ancestry were displaced during WWII..jpg",0,81.82%,100%,3170679,7,128,53
+3614,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Cincinnati Race Riots of 1836..jpg",0,94.17%,100%,1105190,7,129,32
+3892,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Forming of the NAACP in the early 20th century..jpg",0,92.37%,100%,1405649,7,130,20
+4170,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Cincinnati Race Riots of 1836..jpg",0,95.89%,100%,817970,7,131,32
+4448,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Camilla Massacre of 1868..jpg",0,98.05%,100%,457261,7,132,45
+4726,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mob beats Freedom Riders who've arrived at the bus station in Birmingham, Alabama. May 1961..jpg",0,87.13%,100%,2282774,7,133,4
+5004,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A woman who stayed at a riot scene in Dixmoor, IL, August 17, 1964, is carried to a police van..jpg",0,93.21%,100%,1266481,7,134,8
+5282,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young girls join hands while riding the bus together during the initial phases of the integration of the school system in Boston, Massachusetts. September 15, 1975..jpg",0,90.00%,100%,1802231,7,135,72
+5560,1360,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Trail of Tears 1839. Painting by Max Standley..jpg",0,87.73%,100%,2182109,7,136,70
+5838,1360,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Vigilantes burn record press building in Wilmington Race Riot. 1898..jpg",0,90.16%,100%,1776688,7,137,69
+6112,1360,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A police dog attacks an African-American protester during an anti-segregation demonstration in Birmingham, Alabama on May 4, 1963..jpg",0,87.62%,60%,2201465,4,138,6
+0,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A police dog attacks an African-American protester during an anti-segregation demonstration in Birmingham, Alabama on May 4, 1963..jpg",0,85.74%,60%,2514491,4,139,6
+278,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police carry a young woman into a patrol wagon during a civil rights demonstration in Brooklyn, New York. 1963..jpg",0,88.40%,100%,2069745,7,140,65
+556,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police carry a young woman into a patrol wagon during a civil rights demonstration in Brooklyn, New York. 1963..jpg",0,89.33%,100%,1915103,7,141,65
+834,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Camilla Massacre of 1868..jpg",0,98.24%,100%,425183,7,142,45
+1112,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leader Ralph Abernathy(left, behind priest), his children, as well as Mr. and Mrs. Martin Luther King Jr. lead the Selma to Montgomery civil rights march through Alabama in 1965..jpg",0,86.41%,100%,2402610,7,143,17
+1390,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting 1906 Atlanta Race Massacre..jpg",0,90.51%,100%,1718196,7,144,25
+1668,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866 and the aftermath..jpeg",0,94.04%,100%,1127110,7,145,33
+1946,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young girls join hands while riding the bus together during the initial phases of the integration of the school system in Boston, Massachusetts. September 15, 1975..jpg",0,91.86%,100%,1491002,7,146,72
+2224,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leader Ralph Abernathy(left, behind priest), his children, as well as Mr. and Mrs. Martin Luther King Jr. lead the Selma to Montgomery civil rights march through Alabama in 1965..jpg",0,90.80%,100%,1669711,7,147,17
+2502,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A policeman twists a man's neck in a choke hold during a civil rights demonstration. Location unspecified. Circa 1962..jpg",0,34.77%,100%,11038283,7,148,7
+2780,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\George Washington Carver - Influential African American Botanist..jpg",0,40.69%,100%,10047235,7,149,21
+3058,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A policeman twists a man's neck in a choke hold during a civil rights demonstration. Location unspecified. Circa 1962..jpg",0,34.21%,100%,11131510,7,150,7
+3336,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks sitting on a bus. Circa 20th century..jpg",0,36.68%,100%,10718304,7,151,50
+3614,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mob beats Freedom Riders who've arrived at the bus station in Birmingham, Alabama. May 1961..jpg",0,87.35%,100%,2246337,7,152,4
+3892,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Firemen turn their hose on a group of African-Americans during an anti-segregation demonstration in Birmingham, Alabama on May 3, 1963..jpg",0,97.88%,100%,484366,7,153,27
+4170,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators hold signs and join hands during the March on Washington on August 28, 1963..jpg",0,96.16%,100%,773181,7,154,22
+4448,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police K-9 units being deployed to manage crowds of protesters during the Birmingham Campaign of the civil rights movement in May 1963..jpg",0,91.47%,100%,1556454,7,155,55
+4726,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting 1906 Atlanta Race Massacre..jpg",0,91.78%,100%,1505436,7,156,25
+5004,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On March 29, 1968 in Memphis, U.S. National Guard troops faced off with Civil Rights marchers..jpg",0,93.65%,100%,1191821,7,157,48
+5282,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leader Ralph Abernathy(left, behind priest), his children, as well as Mr. and Mrs. Martin Luther King Jr. lead the Selma to Montgomery civil rights march through Alabama in 1965..jpg",0,90.31%,100%,1750145,7,158,17
+5560,1632,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\People wait in line for their housing assignment at the Manzanar internment camp in the California desert in 1942. More than 110,000 people of Japanese ancestry were displaced during WWII..jpg",0,81.18%,100%,3278014,7,159,53
+5838,1632,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Jackie Robinson - First African American Major League Baseball Player in 1947..jpg",0,93.10%,100%,1284899,7,160,43
+6112,1632,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police carry a young woman into a patrol wagon during a civil rights demonstration in Brooklyn, New York. 1963..jpg",0,90.06%,60%,1792593,7,161,65
+0,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A police dog attacks an African-American protester during an anti-segregation demonstration in Birmingham, Alabama on May 4, 1963..jpg",0,88.25%,60%,2094568,4,162,6
+278,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Anti Civil War draft rioters at Lexington Avenue in New York, 1863..jpg",0,96.97%,100%,637463,7,163,14
+556,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866 and the aftermath..jpeg",0,93.70%,100%,1183900,7,164,33
+834,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866 and the aftermath..jpeg",0,93.51%,100%,1216370,7,165,33
+1112,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\President Lyndon B. Johnson shakes hands with civil rights leader Martin Luther King Jr. after signing the Civil Rights Act of 1964..jpg",0,95.19%,100%,934196,7,166,56
+1390,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\March on Washington. August 28, 1963..jpg",0,94.59%,100%,1035932,7,167,40
+1668,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\The George Floyd mural at 38th in Chicago in summer 2020..jpg",0,91.64%,100%,1527954,7,168,63
+1946,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police K-9 units being deployed to manage crowds of protesters during the Birmingham Campaign of the civil rights movement in May 1963..jpg",0,90.72%,100%,1682990,7,169,55
+2224,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\George Washington Carver - Influential African American Botanist..jpg",0,40.88%,100%,10016426,7,170,21
+2502,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\In late July 1964, police beat a man during the Harlem riots sparked by the questionable shooting of a 15-year-old African-American boy by a police officer..jpg",0,66.33%,105%,5760509,7,171,35
+2780,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the forced migration of Native Americans in the 19th century..jpg",0,86.78%,110%,2340634,7,172,46
+3058,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Barack Obama - First African American President of the United States in 2008..jpg",0,99.99%,110%,131795,7,173,15
+3336,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Barack Obama - First African American President of the United States in 2008..jpg",0,99.99%,110%,131792,7,174,15
+3614,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a rioter during the third night of race riots in Paterson, New Jersey. August 14, 1964..jpg",0,70.74%,105%,5023754,7,175,52
+3892,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\George Washington Carver - Influential African American Botanist..jpg",0,40.03%,100%,10157309,7,176,21
+4170,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Shirley Chisholm - First African American woman elected to the House of Representatives in 1968..jpg",0,59.63%,100%,6880255,7,177,58
+4448,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\American Progress by John Gast depicts “manifest destiny.” Though the term wasn’t coined until 1845, the idea was very much in place by the 1830s and the impetus behind the Trail of Tears..jpg",0,99.04%,100%,291775,7,178,11
+4726,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On May 29, 1968, Washington D.C. police tussle with a demonstrator of the Poor Peoples Campaign for civil rights and poverty relief during a protest at The Supreme Court..jpg",0,92.60%,100%,1368551,7,179,61
+5004,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police K-9 units being deployed to manage crowds of protesters during the Birmingham Campaign of the civil rights movement in May 1963..jpg",0,91.92%,100%,1480945,7,180,55
+5282,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\People wait in line for their housing assignment at the Manzanar internment camp in the California desert in 1942. More than 110,000 people of Japanese ancestry were displaced during WWII..jpg",0,81.78%,100%,3177375,7,181,53
+5560,1904,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police K-9 units being deployed to manage crowds of protesters during the Birmingham Campaign of the civil rights movement in May 1963..jpg",0,91.45%,100%,1560733,7,182,55
+5838,1904,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil Rights March on Washington, D.C. (Leaders marchig from the Washington Monument to the Lincoln Memorial) 1963..jpg",0,98.76%,100%,338615,7,183,16
+6112,1904,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mother and a daughter sold at auction in Southern US in the 1860s..jpg",0,90.56%,60%,1708740,6,184,5
+0,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866 and the aftermath..jpeg",0,94.52%,60%,1046914,7,185,33
+278,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866..jpg",0,99.07%,100%,286216,7,186,30
+556,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866..jpg",0,99.23%,100%,258599,7,187,30
+834,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Trail of Tears 1839. Painting by Max Standley..jpg",0,94.25%,100%,1092426,7,188,70
+1112,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Trail of Tears 1839. Painting by Max Standley..jpg",0,92.36%,100%,1407950,7,189,70
+1390,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators hold signs and join hands during the March on Washington on August 28, 1963..jpg",0,95.31%,100%,915412,7,190,22
+1668,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A young black man drinking from a segregated drinking fountain in the mid 20th century..jpg",0,56.44%,100%,7414845,7,191,9
+1946,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A young black man drinking from a segregated drinking fountain in the mid 20th century..jpg",0,57.21%,100%,7286220,7,192,9
+2224,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Barack Obama - First African American President of the United States in 2008..jpg",0,99.93%,110%,141938,7,193,15
+2502,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Vigilantes burn record press building in Wilmington Race Riot. 1898..jpg",0,87.32%,115%,2250611,7,194,69
+2780,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\American Progress by John Gast depicts “manifest destiny.” Though the term wasn’t coined until 1845, the idea was very much in place by the 1830s and the impetus behind the Trail of Tears..jpg",0,96.08%,120%,785995,7,195,11
+3058,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\March on Washington. August 28, 1963..jpg",0,94.44%,120%,1060887,7,196,40
+3336,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Firemen turn their hose on a group of African-Americans during an anti-segregation demonstration in Birmingham, Alabama on May 3, 1963..jpg",0,95.49%,120%,884992,7,197,27
+3614,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On April 3, 1968 in Memphis, Martin Luther King Jr. delivers his final speech a day before he was assassinated..jpg",0,93.30%,115%,1250920,7,198,49
+3892,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Barack Obama - First African American President of the United States in 2008..jpg",0,100.00%,110%,130619,7,199,15
+4170,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\George Washington Carver - Influential African American Botanist..jpg",0,41.02%,100%,9993137,7,200,21
+4448,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Vigilantes burn record press building in Wilmington Race Riot. 1898..jpg",0,78.06%,100%,3799559,7,201,69
+4726,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police officers walk with a police dog that bears its teeth and barks at African-American demonstrators during protests to end racial segregation. Cambridge, Maryland. July 1, 1963..jpg",0,35.17%,100%,10970383,7,202,51
+5004,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Jackie Robinson - First African American Major League Baseball Player in 1947..jpg",0,95.03%,100%,961382,7,203,43
+5282,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Trail of Tears 1839. Painting by Max Standley..jpg",0,94.80%,100%,999569,7,204,70
+5560,2176,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On March 29, 1968 in Memphis, U.S. National Guard troops faced off with Civil Rights marchers..jpg",0,96.47%,100%,721479,7,205,48
+5838,2176,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Nat Turner in 1831..jpg",0,98.69%,100%,350241,7,206,38
+6112,2176,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866 and the aftermath..jpeg",0,96.55%,60%,706723,7,207,33
+0,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators rally in support of jailed civil rights leader Wally Nelson. Location unspecified. Circa 1965..jpg",0,92.03%,60%,1464073,7,208,18
+278,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Trail of Tears 1839. Painting by Max Standley..jpg",0,93.35%,100%,1242991,7,209,70
+556,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Cincinnati Race Riots of 1836..jpg",0,96.14%,100%,776722,7,210,32
+834,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Nat Turner in 1831..jpg",0,99.00%,100%,298020,7,211,38
+1112,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\President Lyndon B. Johnson shakes hands with civil rights leader Martin Luther King Jr. after signing the Civil Rights Act of 1964..jpg",0,96.75%,100%,673982,7,212,56
+1390,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Slavery in pre-colonial America..jpg",0,80.76%,100%,3347782,7,213,59
+1668,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Memphis Race Riots of 1866..jpg",0,49.85%,100%,8515531,7,214,37
+1946,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police K-9 units being deployed to manage crowds of protesters during the Birmingham Campaign of the civil rights movement in May 1963..jpg",0,91.89%,105%,1487042,7,215,55
+2224,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Camilla Massacre of 1868..jpg",0,95.20%,110%,932812,7,216,45
+2502,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Nat Turner in 1831..jpg",0,98.58%,120%,368176,7,217,38
+2780,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\The George Floyd mural at 38th in Chicago in summer 2020..jpg",0,92.57%,125%,1372528,7,218,63
+3058,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators carrying photographs of Lieutenant Thomas Gilligan march on 125th Street near Seventh Ave. during the Harlem Riots of 1964..jpg",0,92.57%,130%,1372370,7,219,24
+3336,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On April 3, 1968 in Memphis, Martin Luther King Jr. delivers his final speech a day before he was assassinated..jpg",0,95.15%,125%,941946,7,220,49
+3614,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Camilla Massacre of 1868..jpg",0,92.25%,120%,1426683,7,221,45
+3892,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Firemen turn their hose on a group of African-Americans during an anti-segregation demonstration in Birmingham, Alabama on May 3, 1963..jpg",0,94.93%,110%,978898,7,222,27
+4170,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the forced migration of Native Americans in the 19th century..jpg",0,87.04%,105%,2297552,7,223,46
+4448,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A policeman twists a man's neck in a choke hold during a civil rights demonstration. Location unspecified. Circa 1962..jpg",0,36.00%,100%,10832448,7,224,7
+4726,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Firemen turn their hose on a group of African-Americans during an anti-segregation demonstration in Birmingham, Alabama on May 3, 1963..jpg",0,94.52%,100%,1046397,7,225,27
+5004,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young protesters try to avoid the blast of a fire hose during a civil rights protest in Birmingham, Alabama on May 7, 1963..jpg",0,97.61%,100%,531031,7,226,68
+5282,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young protesters try to avoid the blast of a fire hose during a civil rights protest in Birmingham, Alabama on May 7, 1963..jpg",0,97.84%,100%,492201,7,227,68
+5560,2448,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866 and the aftermath..jpeg",0,97.02%,100%,628876,7,228,33
+5838,2448,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Nat Turner in 1831..jpg",0,99.11%,100%,279686,7,229,38
+6112,2448,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mother and a daughter sold at auction in Southern US in the 1860s..jpg",0,95.48%,60%,885785,6,230,5
+0,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mother and a daughter sold at auction in Southern US in the 1860s..jpg",0,94.87%,60%,988154,6,231,5
+278,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leader Ralph Abernathy(left, behind priest), his children, as well as Mr. and Mrs. Martin Luther King Jr. lead the Selma to Montgomery civil rights march through Alabama in 1965..jpg",0,81.19%,100%,3275955,7,232,17
+556,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Slavery in pre-colonial America..jpg",0,78.39%,100%,3744157,7,233,59
+834,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\March on Washington. August 28, 1963..jpg",0,92.78%,100%,1337414,7,234,40
+1112,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Firemen turn their hose on a group of African-Americans during an anti-segregation demonstration in Birmingham, Alabama on May 3, 1963..jpg",0,96.09%,100%,784302,7,235,27
+1390,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Memphis Race Riots of 1866..jpg",0,48.90%,100%,8675730,7,236,37
+1668,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Shirley Chisholm - First African American woman elected to the House of Representatives in 1968..jpg",0,63.62%,100%,6213382,7,237,58
+1946,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\The George Floyd mural at 38th in Chicago in summer 2020..jpg",0,93.14%,105%,1278374,7,238,63
+2224,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Anti Civil War draft rioters at Lexington Avenue in New York, 1863..jpg",0,93.19%,115%,1269111,7,239,14
+2502,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On May 29, 1968, Washington D.C. police tussle with a demonstrator of the Poor Peoples Campaign for civil rights and poverty relief during a protest at The Supreme Court..jpg",0,93.36%,125%,1241160,7,240,61
+2780,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\President Lyndon B. Johnson shakes hands with civil rights leader Martin Luther King Jr. after signing the Civil Rights Act of 1964..jpg",0,88.60%,130%,2036578,7,241,56
+3058,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\President Lyndon B. Johnson shakes hands with civil rights leader Martin Luther King Jr. after signing the Civil Rights Act of 1964..jpg",0,89.78%,140%,1839545,7,242,56
+3336,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On May 29, 1968, Washington D.C. police tussle with a demonstrator of the Poor Peoples Campaign for civil rights and poverty relief during a protest at The Supreme Court..jpg",0,88.12%,130%,2116470,7,243,61
+3614,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Japanese Americans incarcerated in crowded conditions at Santa Anita. Circa 1942..jpg",0,87.33%,120%,2249827,7,244,47
+3892,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Japanese Americans incarcerated in crowded conditions at Santa Anita. Circa 1942..jpg",0,93.97%,115%,1138052,7,245,47
+4170,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\American Progress by John Gast depicts “manifest destiny.” Though the term wasn’t coined until 1845, the idea was very much in place by the 1830s and the impetus behind the Trail of Tears..jpg",0,98.80%,105%,331060,7,246,11
+4448,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A man protesting Asian-American violence.jpg",0,52.50%,100%,8073519,7,247,3
+4726,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a rioter during the third night of race riots in Paterson, New Jersey. August 14, 1964..jpg",0,72.10%,100%,4795890,7,248,52
+5004,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Nat Turner in 1831..jpg",0,95.20%,100%,933797,7,249,38
+5282,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On March 29, 1968 in Memphis, U.S. National Guard troops faced off with Civil Rights marchers..jpg",0,95.62%,100%,863441,7,250,48
+5560,2720,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Three demonstrators join hands to build strength against the force of water sprayed by riot police in Birmingham, Alabama, during a protest of segregation practices. May 4, 1963..jpg",0,96.27%,100%,753902,7,251,67
+5838,2720,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An Image depicting New York's chaotic nature in 1827..jpg",0,94.62%,100%,1029870,7,252,12
+6112,2720,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mother and a daughter sold at auction in Southern US in the 1860s..jpg",0,95.94%,60%,808938,6,253,5
+0,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mother and a daughter sold at auction in Southern US in the 1860s..jpg",0,95.64%,60%,859203,6,254,5
+278,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police carry a young woman into a patrol wagon during a civil rights demonstration in Brooklyn, New York. 1963..jpg",0,93.73%,100%,1179150,7,255,65
+556,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Three demonstrators join hands to build strength against the force of water sprayed by riot police in Birmingham, Alabama, during a protest of segregation practices. May 4, 1963..jpg",0,96.20%,100%,765490,7,256,67
+834,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Trail of Tears 1839. Painting by Max Standley..jpg",0,95.10%,100%,949932,7,257,70
+1112,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Jackie Robinson - First African American Major League Baseball Player in 1947..jpg",0,93.90%,100%,1151039,7,258,43
+1390,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A policeman twists a man's neck in a choke hold during a civil rights demonstration. Location unspecified. Circa 1962..jpg",0,35.74%,100%,10875345,7,259,7
+1668,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Jackie Robinson - First African American Major League Baseball Player in 1947..jpg",0,94.12%,100%,1113850,7,260,43
+1946,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An Image depicting New York's chaotic nature in 1827..jpg",0,95.50%,105%,883293,7,261,12
+2224,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks has her fingerprints taken after being arrested for boycotting public transportation in Montgomery, Alabama. February 1956..jpg",0,92.15%,110%,1443319,7,262,64
+2502,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police toss a demonstrator into a mass of protesters that had been rallying at the U.S. Consulate in support of civil rights activists in Alabama on March 16, 1966..jpg",0,96.13%,120%,777051,7,263,62
+2780,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A Nashville policeman grabs a demonstrator and tells him to move from in front of a patrol wagon during a protest on April 27, 1964..jpg",0,93.94%,125%,1143847,1,264,1
+3058,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\The George Floyd mural at 38th in Chicago in summer 2020..jpg",0,95.06%,130%,956160,7,265,63
+3336,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\This scene occurred at Fulton St. and Nostrand Ave., in Brooklyn's Bedford-Stuyvesant section. July 21, 1964..jpg",0,89.56%,125%,1875901,7,266,71
+3614,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Three demonstrators join hands to build strength against the force of water sprayed by riot police in Birmingham, Alabama, during a protest of segregation practices. May 4, 1963..jpg",0,89.01%,120%,1968868,7,267,67
+3892,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators carrying photographs of Lieutenant Thomas Gilligan march on 125th Street near Seventh Ave. during the Harlem Riots of 1964..jpg",0,95.55%,110%,874510,7,268,24
+4170,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil Rights March on Washington, D.C. (Leaders marchig from the Washington Monument to the Lincoln Memorial) 1963..jpg",0,92.26%,105%,1425404,7,269,16
+4448,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks has her fingerprints taken after being arrested for boycotting public transportation in Montgomery, Alabama. February 1956..jpg",0,61.43%,100%,6579280,7,270,64
+4726,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A policeman twists a man's neck in a choke hold during a civil rights demonstration. Location unspecified. Circa 1962..jpg",0,33.67%,100%,11221824,7,271,7
+5004,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks has her fingerprints taken after being arrested for boycotting public transportation in Montgomery, Alabama. February 1956..jpg",0,62.83%,100%,6345392,7,272,64
+5282,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two terrified African-American girls flee police officers during a race riot in the Bedford-Stuyvesant neighborhood of Brooklyn on July 21, 1964..jpg",0,54.55%,100%,7730600,7,273,66
+5560,2992,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\People wait in line for their housing assignment at the Manzanar internment camp in the California desert in 1942. More than 110,000 people of Japanese ancestry were displaced during WWII..jpg",0,81.37%,100%,3246443,7,274,53
+5838,2992,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Three demonstrators join hands to build strength against the force of water sprayed by riot police in Birmingham, Alabama, during a protest of segregation practices. May 4, 1963..jpg",0,95.10%,100%,949409,7,275,67
+6112,2992,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young protesters try to avoid the blast of a fire hose during a civil rights protest in Birmingham, Alabama on May 7, 1963..jpg",0,98.65%,60%,357002,7,276,68
+0,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young protesters try to avoid the blast of a fire hose during a civil rights protest in Birmingham, Alabama on May 7, 1963..jpg",0,98.64%,60%,358448,7,277,68
+278,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young protesters try to avoid the blast of a fire hose during a civil rights protest in Birmingham, Alabama on May 7, 1963..jpg",0,98.69%,100%,349862,7,278,68
+556,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young protesters try to avoid the blast of a fire hose during a civil rights protest in Birmingham, Alabama on May 7, 1963..jpg",0,98.72%,100%,344432,7,279,68
+834,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young protesters try to avoid the blast of a fire hose during a civil rights protest in Birmingham, Alabama on May 7, 1963..jpg",0,98.40%,100%,397727,7,280,68
+1112,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Vigilantes burn record press building in Wilmington Race Riot. 1898..jpg",0,76.81%,100%,4008440,7,281,69
+1390,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Memphis Race Riots of 1866..jpg",0,53.21%,100%,7954456,7,282,37
+1668,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Lincoln Library Race Riots in 1908..jpg",0,95.05%,100%,958989,4,283,39
+1946,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Mvskokvlke 'Temeckv Nene (Mvskoke Trail of Tears) by Johnnie Diacon..jpg",0,98.50%,100%,382050,5,284,28
+2224,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Scene from the New York City Race Riot of 1900..jpg",0,90.32%,110%,1748843,7,285,60
+2502,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866..jpg",0,95.42%,115%,895862,7,286,30
+2780,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Anti Civil War draft rioters at Lexington Avenue in New York, 1863..jpg",0,97.53%,120%,544254,7,287,14
+3058,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Nat Turner in 1831..jpg",0,93.98%,120%,1137129,7,288,38
+3336,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks has her fingerprints taken after being arrested for boycotting public transportation in Montgomery, Alabama. February 1956..jpg",0,89.42%,120%,1898952,7,289,64
+3614,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Three demonstrators join hands to build strength against the force of water sprayed by riot police in Birmingham, Alabama, during a protest of segregation practices. May 4, 1963..jpg",0,91.55%,115%,1543399,7,290,67
+3892,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Lincoln Library Race Riots in 1908..jpg",0,92.79%,105%,1336352,4,291,39
+4170,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Lincoln Library Race Riots in 1908..jpg",0,92.52%,100%,1380626,4,292,39
+4448,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A woman who stayed at a riot scene in Dixmoor, IL, August 17, 1964, is carried to a police van..jpg",0,91.22%,100%,1598787,7,293,8
+4726,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A young black man drinking from a segregated drinking fountain in the mid 20th century..jpg",0,58.11%,100%,7134525,7,294,9
+5004,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Jackie Robinson - First African American Major League Baseball Player in 1947..jpg",0,93.99%,100%,1136353,7,295,43
+5282,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\March on Washington. August 28, 1963..jpg",0,92.68%,100%,1354039,7,296,40
+5560,3264,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\March on Washington. August 28, 1963..jpg",0,93.47%,100%,1223234,7,297,40
+5838,3264,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866..jpg",0,99.01%,100%,296968,7,298,30
+6112,3264,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mother and a daughter sold at auction in Southern US in the 1860s..jpg",0,95.24%,60%,925956,6,299,5
+0,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Mvskokvlke 'Temeckv Nene (Mvskoke Trail of Tears) by Johnnie Diacon..jpg",0,97.93%,60%,477051,5,300,28
+278,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Mvskokvlke 'Temeckv Nene (Mvskoke Trail of Tears) by Johnnie Diacon..jpg",0,98.48%,100%,385244,5,301,28
+556,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Mvskokvlke 'Temeckv Nene (Mvskoke Trail of Tears) by Johnnie Diacon..jpg",0,98.91%,100%,313062,5,302,28
+834,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866..jpg",0,99.87%,100%,152005,7,303,30
+1112,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police officers walk with a police dog that bears its teeth and barks at African-American demonstrators during protests to end racial segregation. Cambridge, Maryland. July 1, 1963..jpg",0,35.69%,100%,10883531,7,304,51
+1390,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting 1906 Atlanta Race Massacre..jpg",0,68.54%,100%,5390636,7,305,25
+1668,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An Image depicting New York's chaotic nature in 1827..jpg",0,88.19%,100%,2104914,7,306,12
+1946,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Nat Turner in 1831..jpg",0,82.36%,100%,3080539,7,307,38
+2224,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Trail of Tears 1839. Painting by Max Standley..jpg",0,85.79%,100%,2506748,7,308,70
+2502,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On April 3, 1968 in Memphis, Martin Luther King Jr. delivers his final speech a day before he was assassinated..jpg",0,86.41%,105%,2402380,7,309,49
+2780,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866..jpg",0,89.10%,110%,1953553,7,310,30
+3058,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\The George Floyd mural at 38th in Chicago in summer 2020..jpg",0,92.17%,110%,1439278,7,311,63
+3336,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators hold signs and join hands during the March on Washington on August 28, 1963..jpg",0,90.15%,110%,1778141,7,312,22
+3614,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Anti Civil War draft rioters at Lexington Avenue in New York, 1863..jpg",0,93.19%,105%,1269616,7,313,14
+3892,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An Image depicting New York's chaotic nature in 1827..jpg",0,94.74%,100%,1009314,7,314,12
+4170,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators carrying photographs of Lieutenant Thomas Gilligan march on 125th Street near Seventh Ave. during the Harlem Riots of 1964..jpg",0,94.27%,100%,1088386,7,315,24
+4448,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Hiram Rhodes Revels - First African American member fo the United States Senate in 1870..jpg",0,94.06%,100%,1123392,7,316,23
+4726,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\George Washington Carver - Influential African American Botanist..jpg",0,40.94%,100%,10005320,7,317,21
+5004,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil Rights March on Washington, D.C. (Leaders marchig from the Washington Monument to the Lincoln Memorial) 1963..jpg",0,94.10%,100%,1116454,7,318,16
+5282,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators carrying photographs of Lieutenant Thomas Gilligan march on 125th Street near Seventh Ave. during the Harlem Riots of 1964..jpg",0,97.17%,100%,603676,7,319,24
+5560,3536,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On May 29, 1968, Washington D.C. police tussle with a demonstrator of the Poor Peoples Campaign for civil rights and poverty relief during a protest at The Supreme Court..jpg",0,91.04%,100%,1629290,7,320,61
+5838,3536,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators hold signs and join hands during the March on Washington on August 28, 1963..jpg",0,93.10%,100%,1284302,7,321,22
+6112,3536,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Forming of the NAACP in the early 20th century..jpg",0,72.62%,60%,4708659,7,322,20
+0,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Mvskokvlke 'Temeckv Nene (Mvskoke Trail of Tears) by Johnnie Diacon..jpg",0,97.33%,60%,577583,5,323,28
+278,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Lincoln Library Race Riots in 1908..jpg",0,95.50%,100%,883835,4,324,39
+556,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Japanese Americans incarcerated in crowded conditions at Santa Anita. Circa 1942..jpg",0,93.85%,100%,1159490,7,325,47
+834,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Japanese Americans incarcerated in crowded conditions at Santa Anita. Circa 1942..jpg",0,93.13%,100%,1278611,7,326,47
+1112,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Jackie Robinson - First African American Major League Baseball Player in 1947..jpg",0,94.72%,100%,1012806,7,327,43
+1390,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Memphis Race Riots of 1866..jpg",0,52.48%,100%,8075668,7,328,37
+1668,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Barack Obama - First African American President of the United States in 2008..jpg",0,99.10%,100%,281156,7,329,15
+1946,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Barack Obama - First African American President of the United States in 2008..jpg",0,98.87%,100%,318991,7,330,15
+2224,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On April 3, 1968 in Memphis, Martin Luther King Jr. delivers his final speech a day before he was assassinated..jpg",0,87.00%,100%,2304758,7,331,49
+2502,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An Image depicting New York's chaotic nature in 1827..jpg",0,85.40%,100%,2572585,7,332,12
+2780,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil Rights March on Washington, D.C. (Leaders marchig from the Washington Monument to the Lincoln Memorial) 1963..jpg",0,94.62%,100%,1030816,7,333,16
+3058,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the devastation of the New Orleans Massacre of 1866..jpg",0,83.64%,100%,2865759,7,334,31
+3336,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\American Progress by John Gast depicts “manifest destiny.” Though the term wasn’t coined until 1845, the idea was very much in place by the 1830s and the impetus behind the Trail of Tears..jpg",0,94.58%,100%,1037189,7,335,11
+3614,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An Image depicting New York's chaotic nature in 1827..jpg",0,93.76%,100%,1174729,7,336,12
+3892,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866..jpg",0,96.13%,100%,777623,7,337,30
+4170,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Three demonstrators join hands to build strength against the force of water sprayed by riot police in Birmingham, Alabama, during a protest of segregation practices. May 4, 1963..jpg",0,91.01%,100%,1633715,7,338,67
+4448,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Jackie Robinson - First African American Major League Baseball Player in 1947..jpg",0,93.01%,100%,1299327,7,339,43
+4726,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police officers walk with a police dog that bears its teeth and barks at African-American demonstrators during protests to end racial segregation. Cambridge, Maryland. July 1, 1963..jpg",0,32.46%,100%,11424305,7,340,51
+5004,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Firemen turn their hose on a group of African-Americans during an anti-segregation demonstration in Birmingham, Alabama on May 3, 1963..jpg",0,97.22%,100%,596004,7,341,27
+5282,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the forced migration of Native Americans in the 19th century..jpg",0,94.29%,100%,1085693,7,342,46
+5560,3808,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A woman who stayed at a riot scene in Dixmoor, IL, August 17, 1964, is carried to a police van..jpg",0,84.43%,100%,2734209,7,343,8
+5838,3808,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the forced migration of Native Americans in the 19th century..jpg",0,86.85%,100%,2328576,7,344,46
+6112,3808,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks sitting on a bus. Circa 20th century..jpg",0,33.28%,60%,11286581,7,345,50
+0,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On March 29, 1968 in Memphis, U.S. National Guard troops faced off with Civil Rights marchers..jpg",0,95.97%,60%,805024,7,346,48
+278,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On March 29, 1968 in Memphis, U.S. National Guard troops faced off with Civil Rights marchers..jpg",0,92.00%,100%,1468341,7,347,48
+556,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An Image depicting New York's chaotic nature in 1827..jpg",0,94.23%,100%,1095250,7,348,12
+834,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil Rights March on Washington, D.C. (Leaders marchig from the Washington Monument to the Lincoln Memorial) 1963..jpg",0,96.52%,100%,711787,7,349,16
+1112,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Barack Obama - First African American President of the United States in 2008..jpg",0,99.73%,100%,175583,7,350,15
+1390,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police officers walk with a police dog that bears its teeth and barks at African-American demonstrators during protests to end racial segregation. Cambridge, Maryland. July 1, 1963..jpg",0,35.55%,100%,10907983,7,351,51
+1668,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\People wait in line for their housing assignment at the Manzanar internment camp in the California desert in 1942. More than 110,000 people of Japanese ancestry were displaced during WWII..jpg",0,81.37%,100%,3246349,7,352,53
+1946,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On April 3, 1968 in Memphis, Martin Luther King Jr. delivers his final speech a day before he was assassinated..jpg",0,91.48%,100%,1555439,7,353,49
+2224,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\American Progress by John Gast depicts “manifest destiny.” Though the term wasn’t coined until 1845, the idea was very much in place by the 1830s and the impetus behind the Trail of Tears..jpg",0,93.10%,100%,1283768,7,354,11
+2502,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Three demonstrators join hands to build strength against the force of water sprayed by riot police in Birmingham, Alabama, during a protest of segregation practices. May 4, 1963..jpg",0,90.21%,100%,1766889,7,355,67
+2780,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\March on Washington. August 28, 1963..jpg",0,92.78%,100%,1338688,7,356,40
+3058,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\American Progress by John Gast depicts “manifest destiny.” Though the term wasn’t coined until 1845, the idea was very much in place by the 1830s and the impetus behind the Trail of Tears..jpg",0,93.65%,100%,1192190,7,357,11
+3336,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\American Progress by John Gast depicts “manifest destiny.” Though the term wasn’t coined until 1845, the idea was very much in place by the 1830s and the impetus behind the Trail of Tears..jpg",0,96.88%,100%,651638,7,358,11
+3614,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators hold signs and join hands during the March on Washington on August 28, 1963..jpg",0,96.64%,100%,692235,7,359,22
+3892,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police toss a demonstrator into a mass of protesters that had been rallying at the U.S. Consulate in support of civil rights activists in Alabama on March 16, 1966..jpg",0,90.52%,100%,1715974,7,360,62
+4170,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil Rights March on Washington, D.C. (Leaders marchig from the Washington Monument to the Lincoln Memorial) 1963..jpg",0,98.59%,100%,365612,7,361,16
+4448,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Martin Luther King Jr. speaks at a rally for the Chicago Freedom Movement at Soldier Field in Chicago, Illinois on July 10, 1966..jpg",0,46.84%,100%,9019538,7,362,29
+4726,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks sitting on a bus. Circa 20th century..jpg",0,37.26%,100%,10620610,7,363,50
+5004,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\This scene occurred at Fulton St. and Nostrand Ave., in Brooklyn's Bedford-Stuyvesant section. July 21, 1964..jpg",0,94.24%,100%,1094279,7,364,71
+5282,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On April 3, 1968 in Memphis, Martin Luther King Jr. delivers his final speech a day before he was assassinated..jpg",0,95.78%,100%,835513,7,365,49
+5560,4080,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Slavery in pre-colonial America..jpg",0,78.10%,100%,3792586,7,366,59
+5838,4080,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A woman who stayed at a riot scene in Dixmoor, IL, August 17, 1964, is carried to a police van..jpg",0,83.23%,100%,2934064,7,367,8
+6112,4080,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\African American man drinking from a segregated water fountain in the American South. Circa mid 20th century..jpg",0,22.26%,60%,13129232,7,368,10
+0,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Vigilantes burn record press building in Wilmington Race Riot. 1898..jpg",0,81.11%,60%,3289336,7,369,69
+278,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\This scene occurred at Fulton St. and Nostrand Ave., in Brooklyn's Bedford-Stuyvesant section. July 21, 1964..jpg",0,94.95%,100%,974771,7,370,71
+556,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A woman who stayed at a riot scene in Dixmoor, IL, August 17, 1964, is carried to a police van..jpg",0,89.18%,100%,1939548,7,371,8
+834,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the Trail of Tears starting in 1831..jpg",0,87.79%,100%,2172169,7,372,34
+1112,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the Trail of Tears starting in 1831..jpg",0,88.08%,100%,2124042,7,373,34
+1390,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A young black man drinking from a segregated drinking fountain in the mid 20th century..jpg",0,58.37%,100%,7091949,7,374,9
+1668,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Shirley Chisholm - First African American woman elected to the House of Representatives in 1968..jpg",0,62.44%,100%,6410392,7,375,58
+1946,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\This scene occurred at Fulton St. and Nostrand Ave., in Brooklyn's Bedford-Stuyvesant section. July 21, 1964..jpg",0,95.72%,100%,845532,7,376,71
+2224,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Members of New York's Harlem community run from steel-helmeted police swinging nightsticks in an effort to break up a street gathering on July 19, 1964..jpg",0,94.01%,100%,1132065,7,377,41
+2502,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\This scene occurred at Fulton St. and Nostrand Ave., in Brooklyn's Bedford-Stuyvesant section. July 21, 1964..jpg",0,95.48%,100%,885783,7,378,71
+2780,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the Trail of Tears starting in 1831..jpg",0,87.93%,100%,2148237,7,379,34
+3058,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Vigilantes burn record press building in Wilmington Race Riot. 1898..jpg",0,75.23%,100%,4272314,7,380,69
+3336,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Firemen turn their hose on a group of African-Americans during an anti-segregation demonstration in Birmingham, Alabama on May 3, 1963..jpg",0,95.90%,100%,816685,7,381,27
+3614,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Memphis Race Riots of 1866..jpg",0,49.37%,100%,8596416,7,382,37
+3892,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\This scene occurred at Fulton St. and Nostrand Ave., in Brooklyn's Bedford-Stuyvesant section. July 21, 1964..jpg",0,96.52%,100%,712459,7,383,71
+4170,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A man protesting Asian-American violence.jpg",0,53.72%,100%,7868617,7,384,3
+4448,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks sitting on a bus. Circa 20th century..jpg",0,36.68%,100%,10717598,7,385,50
+4726,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Martin Luther King Jr. speaks at a rally for the Chicago Freedom Movement at Soldier Field in Chicago, Illinois on July 10, 1966..jpg",0,45.18%,100%,9296463,7,386,29
+5004,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Slavery in pre-colonial America..jpg",0,78.86%,100%,3665600,7,387,59
+5282,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Members of New York's Harlem community run from steel-helmeted police swinging nightsticks in an effort to break up a street gathering on July 19, 1964..jpg",0,94.04%,100%,1127700,7,388,41
+5560,4352,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the Trail of Tears starting in 1831..jpg",0,88.00%,100%,2137490,7,389,34
+5838,4352,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Members of New York's Harlem community run from steel-helmeted police swinging nightsticks in an effort to break up a street gathering on July 19, 1964..jpg",0,95.86%,100%,823036,7,390,41
+6112,4352,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A civil rights marcher suffering from exposure to tear gas holds an unconscious Amelia Boynton Robinson, noted activist, after mounted police officers attacked marchers in Selma, Alabama. March 8, 1965..jpg",0,35.58%,60%,10901607,7,391,2
+0,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A civil rights marcher suffering from exposure to tear gas holds an unconscious Amelia Boynton Robinson, noted activist, after mounted police officers attacked marchers in Selma, Alabama. March 8, 1965..jpg",0,33.05%,60%,11325282,7,392,2
+278,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mob beats Freedom Riders who've arrived at the bus station in Birmingham, Alabama. May 1961..jpg",0,87.59%,100%,2206385,7,393,4
+556,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police K-9 units being deployed to manage crowds of protesters during the Birmingham Campaign of the civil rights movement in May 1963..jpg",0,91.78%,100%,1505671,7,394,55
+834,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the forced migration of Native Americans in the 19th century..jpg",0,90.99%,100%,1636523,7,395,46
+1112,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Hiram Rhodes Revels - First African American member fo the United States Senate in 1870..jpg",0,91.68%,100%,1522159,7,396,23
+1390,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the forced migration of Native Americans in the 19th century..jpg",0,91.76%,100%,1508540,7,397,46
+1668,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Memphis Race Riots of 1866..jpg",0,49.12%,100%,8638472,7,398,37
+1946,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks has her fingerprints taken after being arrested for boycotting public transportation in Montgomery, Alabama. February 1956..jpg",0,62.43%,100%,6412247,7,399,64
+2224,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Shirley Chisholm - First African American woman elected to the House of Representatives in 1968..jpg",0,58.76%,100%,7026190,7,400,58
+2502,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the Trail of Tears starting in 1831..jpg",0,87.92%,100%,2150274,7,401,34
+2780,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a rioter during the third night of race riots in Paterson, New Jersey. August 14, 1964..jpg",0,72.30%,100%,4761650,7,402,52
+3058,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mob beats Freedom Riders who've arrived at the bus station in Birmingham, Alabama. May 1961..jpg",0,87.06%,100%,2293539,7,403,4
+3336,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On April 3, 1968 in Memphis, Martin Luther King Jr. delivers his final speech a day before he was assassinated..jpg",0,95.65%,100%,857920,7,404,49
+3614,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a rioter during the third night of race riots in Paterson, New Jersey. August 14, 1964..jpg",0,70.63%,100%,5040892,7,405,52
+3892,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Memphis Race Riots of 1866..jpg",0,50.57%,100%,8395910,7,406,37
+4170,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A policeman twists a man's neck in a choke hold during a civil rights demonstration. Location unspecified. Circa 1962..jpg",0,35.80%,100%,10865066,7,407,7
+4448,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Martin Luther King Jr. speaks at a rally for the Chicago Freedom Movement at Soldier Field in Chicago, Illinois on July 10, 1966..jpg",0,45.24%,100%,9286413,7,408,29
+4726,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting 1906 Atlanta Race Massacre..jpg",0,65.26%,100%,5938801,7,409,25
+5004,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting 1906 Atlanta Race Massacre..jpg",0,65.95%,100%,5824505,7,410,25
+5282,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Members of New York's Harlem community run from steel-helmeted police swinging nightsticks in an effort to break up a street gathering on July 19, 1964..jpg",0,94.07%,100%,1122979,7,411,41
+5560,4624,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Members of New York's Harlem community run from steel-helmeted police swinging nightsticks in an effort to break up a street gathering on July 19, 1964..jpg",0,94.05%,100%,1124801,7,412,41
+5838,4624,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Members of New York's Harlem community run from steel-helmeted police swinging nightsticks in an effort to break up a street gathering on July 19, 1964..jpg",0,94.00%,100%,1133063,7,413,41
+6112,4624,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\African American man drinking from a segregated water fountain in the American South. Circa mid 20th century..jpg",0,20.84%,60%,13367098,7,414,10
+0,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two terrified African-American girls flee police officers during a race riot in the Bedford-Stuyvesant neighborhood of Brooklyn on July 21, 1964..jpg",0,62.90%,60%,6334515,7,415,66
+278,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\This scene occurred at Fulton St. and Nostrand Ave., in Brooklyn's Bedford-Stuyvesant section. July 21, 1964..jpg",0,96.37%,100%,737416,7,416,71
+556,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mob beats Freedom Riders who've arrived at the bus station in Birmingham, Alabama. May 1961..jpg",0,89.60%,100%,1869855,7,417,4
+834,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leader Ralph Abernathy(left, behind priest), his children, as well as Mr. and Mrs. Martin Luther King Jr. lead the Selma to Montgomery civil rights march through Alabama in 1965..jpg",0,84.03%,100%,2801157,7,418,17
+1112,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\The George Floyd mural at 38th in Chicago in summer 2020..jpg",0,88.49%,100%,2056010,7,419,63
+1390,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Hiram Rhodes Revels - First African American member fo the United States Senate in 1870..jpg",0,94.23%,100%,1094585,7,420,23
+1668,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Martin Luther King Jr. speaks at a rally for the Chicago Freedom Movement at Soldier Field in Chicago, Illinois on July 10, 1966..jpg",0,45.71%,100%,9209193,7,421,29
+1946,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A man protesting Asian-American violence.jpg",0,52.19%,100%,8125041,7,422,3
+2224,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A policeman twists a man's neck in a choke hold during a civil rights demonstration. Location unspecified. Circa 1962..jpg",0,34.48%,100%,11086776,7,423,7
+2502,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Martin Luther King Jr. speaks at a rally for the Chicago Freedom Movement at Soldier Field in Chicago, Illinois on July 10, 1966..jpg",0,46.70%,100%,9042926,7,424,29
+2780,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the forced migration of Native Americans in the 19th century..jpg",0,86.13%,100%,2449175,7,425,46
+3058,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A woman who stayed at a riot scene in Dixmoor, IL, August 17, 1964, is carried to a police van..jpg",0,82.84%,100%,3000423,7,426,8
+3336,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\In late July 1964, police beat a man during the Harlem riots sparked by the questionable shooting of a 15-year-old African-American boy by a police officer..jpg",0,65.13%,100%,5960860,7,427,35
+3614,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\In late July 1964, police beat a man during the Harlem riots sparked by the questionable shooting of a 15-year-old African-American boy by a police officer..jpg",0,66.01%,100%,5814610,7,428,35
+3892,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\George Washington Carver - Influential African American Botanist..jpg",0,40.97%,100%,10000857,7,429,21
+4170,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\George Washington Carver - Influential African American Botanist..jpg",0,40.88%,100%,10015165,7,430,21
+4448,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Martin Luther King Jr. speaks at a rally for the Chicago Freedom Movement at Soldier Field in Chicago, Illinois on July 10, 1966..jpg",0,47.12%,100%,8971995,7,431,29
+4726,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Shirley Chisholm - First African American woman elected to the House of Representatives in 1968..jpg",0,58.85%,100%,7011373,7,432,58
+5004,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A man protesting Asian-American violence.jpg",0,52.80%,100%,8022928,7,433,3
+5282,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A woman who stayed at a riot scene in Dixmoor, IL, August 17, 1964, is carried to a police van..jpg",0,82.57%,100%,3045114,7,434,8
+5560,4896,278,272,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the Trail of Tears starting in 1831..jpg",0,87.93%,100%,2149580,7,435,34
+5838,4896,274,272,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the Trail of Tears starting in 1831..jpg",0,88.05%,100%,2128667,7,436,34
+6112,4896,269,272,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police officers walk with a police dog that bears its teeth and barks at African-American demonstrators during protests to end racial segregation. Cambridge, Maryland. July 1, 1963..jpg",0,26.44%,60%,12430988,7,437,51
+0,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A civil rights marcher suffering from exposure to tear gas holds an unconscious Amelia Boynton Robinson, noted activist, after mounted police officers attacked marchers in Selma, Alabama. March 8, 1965..jpg",0,26.22%,60%,12467275,7,438,2
+278,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\In late July 1964, police beat a man during the Harlem riots sparked by the questionable shooting of a 15-year-old African-American boy by a police officer..jpg",0,66.46%,100%,5738754,7,439,35
+556,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A young black man drinking from a segregated drinking fountain in the mid 20th century..jpg",0,57.15%,100%,7295128,7,440,9
+834,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a rioter during the third night of race riots in Paterson, New Jersey. August 14, 1964..jpg",0,72.15%,100%,4787671,7,441,52
+1112,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks has her fingerprints taken after being arrested for boycotting public transportation in Montgomery, Alabama. February 1956..jpg",0,62.95%,100%,6325518,7,442,64
+1390,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Slavery in pre-colonial America..jpg",0,78.78%,100%,3678187,7,443,59
+1668,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Members of New York's Harlem community run from steel-helmeted police swinging nightsticks in an effort to break up a street gathering on July 19, 1964..jpg",0,94.05%,100%,1124978,7,444,41
+1946,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a rioter during the third night of race riots in Paterson, New Jersey. August 14, 1964..jpg",0,69.53%,100%,5225879,7,445,52
+2224,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Slavery in pre-colonial America..jpg",0,78.47%,100%,3729829,7,446,59
+2502,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Shirley Chisholm - First African American woman elected to the House of Representatives in 1968..jpg",0,58.35%,100%,7095010,7,447,58
+2780,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A young black man drinking from a segregated drinking fountain in the mid 20th century..jpg",0,55.69%,100%,7539449,7,448,9
+3058,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a rioter during the third night of race riots in Paterson, New Jersey. August 14, 1964..jpg",0,70.03%,100%,5141618,7,449,52
+3336,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A young black man drinking from a segregated drinking fountain in the mid 20th century..jpg",0,56.41%,100%,7419135,7,450,9
+3614,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks has her fingerprints taken after being arrested for boycotting public transportation in Montgomery, Alabama. February 1956..jpg",0,60.91%,100%,6666869,7,451,64
+3892,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Slavery in pre-colonial America..jpg",0,78.50%,100%,3726087,7,452,59
+4170,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Martin Luther King Jr. speaks at a rally for the Chicago Freedom Movement at Soldier Field in Chicago, Illinois on July 10, 1966..jpg",0,44.41%,100%,9425737,7,453,29
+4448,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A man protesting Asian-American violence.jpg",0,52.65%,100%,8047366,7,454,3
+4726,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A man protesting Asian-American violence.jpg",0,52.87%,100%,8010795,7,455,3
+5004,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Shirley Chisholm - First African American woman elected to the House of Representatives in 1968..jpg",0,58.49%,100%,7070623,7,456,58
+5282,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\In late July 1964, police beat a man during the Harlem riots sparked by the questionable shooting of a 15-year-old African-American boy by a police officer..jpg",0,65.14%,100%,5959836,7,457,35
+5560,5168,278,271,75 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\In late July 1964, police beat a man during the Harlem riots sparked by the questionable shooting of a 15-year-old African-American boy by a police officer..jpg",0,65.16%,100%,5956975,7,458,35
+5838,5168,274,271,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\In late July 1964, police beat a man during the Harlem riots sparked by the questionable shooting of a 15-year-old African-American boy by a police officer..jpg",0,64.99%,100%,5983848,7,459,35
+6112,5168,269,271,72 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A civil rights marcher suffering from exposure to tear gas holds an unconscious Amelia Boynton Robinson, noted activist, after mounted police officers attacked marchers in Selma, Alabama. March 8, 1965..jpg",0,26.26%,60%,12459820,7,460,2
+0,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leaders standing on the balcony of Memphis' Lorraine Motel point in the direction of the assailant after the fatal bullet struck Martin Luther King Jr. April 4, 1968..jpeg",0,3.91%,60%,16198050,7,461,26
+278,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Japanese Americans incarcerated in crowded conditions at Santa Anita. Circa 1942..jpg",0,13.67%,60%,14565901,7,462,47
+556,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks sitting on a bus. Circa 20th century..jpg",0,33.64%,60%,11226327,7,463,50
+834,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Japanese Americans incarcerated in crowded conditions at Santa Anita. Circa 1942..jpg",0,10.96%,60%,15019079,7,464,47
+1112,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A civil rights marcher suffering from exposure to tear gas holds an unconscious Amelia Boynton Robinson, noted activist, after mounted police officers attacked marchers in Selma, Alabama. March 8, 1965..jpg",0,23.43%,60%,12934145,7,465,2
+1390,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leaders standing on the balcony of Memphis' Lorraine Motel point in the direction of the assailant after the fatal bullet struck Martin Luther King Jr. April 4, 1968..jpeg",0,0.86%,60%,16707525,7,466,26
+1668,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leaders standing on the balcony of Memphis' Lorraine Motel point in the direction of the assailant after the fatal bullet struck Martin Luther King Jr. April 4, 1968..jpeg",0,0.00%,60%,16851460,7,467,26
+1946,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leaders standing on the balcony of Memphis' Lorraine Motel point in the direction of the assailant after the fatal bullet struck Martin Luther King Jr. April 4, 1968..jpeg",0,0.27%,60%,16806475,7,468,26
+2224,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A man protesting Asian-American violence.jpg",0,52.57%,60%,8061584,7,469,3
+2502,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\African American man drinking from a segregated water fountain in the American South. Circa mid 20th century..jpg",0,21.57%,60%,13244203,7,470,10
+2780,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\African American man drinking from a segregated water fountain in the American South. Circa mid 20th century..jpg",0,21.80%,60%,13205998,7,471,10
+3058,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police officers walk with a police dog that bears its teeth and barks at African-American demonstrators during protests to end racial segregation. Cambridge, Maryland. July 1, 1963..jpg",0,26.59%,60%,12406004,7,472,51
+3336,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leaders standing on the balcony of Memphis' Lorraine Motel point in the direction of the assailant after the fatal bullet struck Martin Luther King Jr. April 4, 1968..jpeg",0,2.70%,60%,16399192,7,473,26
+3614,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\African American man drinking from a segregated water fountain in the American South. Circa mid 20th century..jpg",0,21.07%,60%,13328860,7,474,10
+3892,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\African American man drinking from a segregated water fountain in the American South. Circa mid 20th century..jpg",0,19.67%,60%,13562553,7,475,10
+4170,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leaders standing on the balcony of Memphis' Lorraine Motel point in the direction of the assailant after the fatal bullet struck Martin Luther King Jr. April 4, 1968..jpeg",0,0.52%,60%,16764503,7,476,26
+4448,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\African American man drinking from a segregated water fountain in the American South. Circa mid 20th century..jpg",0,20.29%,60%,13459328,7,477,10
+4726,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Japanese Americans incarcerated in crowded conditions at Santa Anita. Circa 1942..jpg",0,10.83%,60%,15039811,7,478,47
+5004,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks sitting on a bus. Circa 20th century..jpg",0,33.30%,60%,11283073,7,479,50
+5282,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A civil rights marcher suffering from exposure to tear gas holds an unconscious Amelia Boynton Robinson, noted activist, after mounted police officers attacked marchers in Selma, Alabama. March 8, 1965..jpg",0,21.68%,60%,13226501,7,480,2
+5560,5439,278,269,74 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A civil rights marcher suffering from exposure to tear gas holds an unconscious Amelia Boynton Robinson, noted activist, after mounted police officers attacked marchers in Selma, Alabama. March 8, 1965..jpg",0,21.71%,60%,13222068,7,481,2
+5838,5439,274,269,73 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leaders standing on the balcony of Memphis' Lorraine Motel point in the direction of the assailant after the fatal bullet struck Martin Luther King Jr. April 4, 1968..jpeg",0,0.33%,60%,16795777,7,482,26
+6112,5439,269,269,72 ,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks sitting on a bus. Circa 20th century..jpg",0,32.94%,60%,11344316,7,483,50
+
+Image#,Image,Used Count
+1,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A Nashville policeman grabs a demonstrator and tells him to move from in front of a patrol wagon during a protest on April 27, 1964..jpg",1
+2,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A civil rights marcher suffering from exposure to tear gas holds an unconscious Amelia Boynton Robinson, noted activist, after mounted police officers attacked marchers in Selma, Alabama. March 8, 1965..jpg",7
+3,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A man protesting Asian-American violence.jpg",7
+4,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mob beats Freedom Riders who've arrived at the bus station in Birmingham, Alabama. May 1961..jpg",7
+5,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A mother and a daughter sold at auction in Southern US in the 1860s..jpg",6
+6,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A police dog attacks an African-American protester during an anti-segregation demonstration in Birmingham, Alabama on May 4, 1963..jpg",4
+7,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A policeman twists a man's neck in a choke hold during a civil rights demonstration. Location unspecified. Circa 1962..jpg",7
+8,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A woman who stayed at a riot scene in Dixmoor, IL, August 17, 1964, is carried to a police van..jpg",7
+9,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\A young black man drinking from a segregated drinking fountain in the mid 20th century..jpg",7
+10,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\African American man drinking from a segregated water fountain in the American South. Circa mid 20th century..jpg",7
+11,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\American Progress by John Gast depicts “manifest destiny.” Though the term wasn’t coined until 1845, the idea was very much in place by the 1830s and the impetus behind the Trail of Tears..jpg",7
+12,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An Image depicting New York's chaotic nature in 1827..jpg",7
+13,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\An officer threatening to use force at a Harlem riot in 1964..jpeg",7
+14,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Anti Civil War draft rioters at Lexington Avenue in New York, 1863..jpg",7
+15,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Barack Obama - First African American President of the United States in 2008..jpg",7
+16,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil Rights March on Washington, D.C. (Leaders marchig from the Washington Monument to the Lincoln Memorial) 1963..jpg",7
+17,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leader Ralph Abernathy(left, behind priest), his children, as well as Mr. and Mrs. Martin Luther King Jr. lead the Selma to Montgomery civil rights march through Alabama in 1965..jpg",7
+18,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators rally in support of jailed civil rights leader Wally Nelson. Location unspecified. Circa 1965..jpg",7
+19,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Elizabeth Eckford - One of the Little Rock Nine. September 6, 1957..jpg",7
+20,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Forming of the NAACP in the early 20th century..jpg",7
+21,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\George Washington Carver - Influential African American Botanist..jpg",7
+22,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators hold signs and join hands during the March on Washington on August 28, 1963..jpg",7
+23,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Hiram Rhodes Revels - First African American member fo the United States Senate in 1870..jpg",7
+24,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Demonstrators carrying photographs of Lieutenant Thomas Gilligan march on 125th Street near Seventh Ave. during the Harlem Riots of 1964..jpg",7
+25,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting 1906 Atlanta Race Massacre..jpg",7
+26,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Civil rights leaders standing on the balcony of Memphis' Lorraine Motel point in the direction of the assailant after the fatal bullet struck Martin Luther King Jr. April 4, 1968..jpeg",7
+27,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Firemen turn their hose on a group of African-Americans during an anti-segregation demonstration in Birmingham, Alabama on May 3, 1963..jpg",7
+28,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Mvskokvlke 'Temeckv Nene (Mvskoke Trail of Tears) by Johnnie Diacon..jpg",5
+29,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Martin Luther King Jr. speaks at a rally for the Chicago Freedom Movement at Soldier Field in Chicago, Illinois on July 10, 1966..jpg",7
+30,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866..jpg",7
+31,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the devastation of the New Orleans Massacre of 1866..jpg",7
+32,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Cincinnati Race Riots of 1836..jpg",7
+33,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting New Orleans Massacre of 1866 and the aftermath..jpeg",7
+34,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the Trail of Tears starting in 1831..jpg",7
+35,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\In late July 1964, police beat a man during the Harlem riots sparked by the questionable shooting of a 15-year-old African-American boy by a police officer..jpg",7
+36,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Madam C.J. Walker - Self-made millionaire after inventing a line of African-American hair care products..jpg",7
+37,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Memphis Race Riots of 1866..jpg",7
+38,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Nat Turner in 1831..jpg",7
+39,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Lincoln Library Race Riots in 1908..jpg",4
+40,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\March on Washington. August 28, 1963..jpg",7
+41,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Members of New York's Harlem community run from steel-helmeted police swinging nightsticks in an effort to break up a street gathering on July 19, 1964..jpg",7
+42,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Memphis sanitation workers on strike in 1968..jpg",7
+43,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Jackie Robinson - First African American Major League Baseball Player in 1947..jpg",7
+44,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting African Americans being attacked during the Memphis Race Riots of 1866..jpg",7
+45,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting Camilla Massacre of 1868..jpg",7
+46,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Image depicting the forced migration of Native Americans in the 19th century..jpg",7
+47,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Japanese Americans incarcerated in crowded conditions at Santa Anita. Circa 1942..jpg",7
+48,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On March 29, 1968 in Memphis, U.S. National Guard troops faced off with Civil Rights marchers..jpg",7
+49,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On April 3, 1968 in Memphis, Martin Luther King Jr. delivers his final speech a day before he was assassinated..jpg",7
+50,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks sitting on a bus. Circa 20th century..jpg",7
+51,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police officers walk with a police dog that bears its teeth and barks at African-American demonstrators during protests to end racial segregation. Cambridge, Maryland. July 1, 1963..jpg",7
+52,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a rioter during the third night of race riots in Paterson, New Jersey. August 14, 1964..jpg",7
+53,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\People wait in line for their housing assignment at the Manzanar internment camp in the California desert in 1942. More than 110,000 people of Japanese ancestry were displaced during WWII..jpg",7
+54,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police subdue a man during the Watts riots in Los Angeles. August 1965..jpg",7
+55,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police K-9 units being deployed to manage crowds of protesters during the Birmingham Campaign of the civil rights movement in May 1963..jpg",7
+56,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\President Lyndon B. Johnson shakes hands with civil rights leader Martin Luther King Jr. after signing the Civil Rights Act of 1964..jpg",7
+57,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Several African-Americans confront National Guardsmen during the Newark, New Jersey riots in response to police brutality on July 14, 1967..jpg",1
+58,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Shirley Chisholm - First African American woman elected to the House of Representatives in 1968..jpg",7
+59,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Slavery in pre-colonial America..jpg",7
+60,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Scene from the New York City Race Riot of 1900..jpg",7
+61,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\On May 29, 1968, Washington D.C. police tussle with a demonstrator of the Poor Peoples Campaign for civil rights and poverty relief during a protest at The Supreme Court..jpg",7
+62,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police toss a demonstrator into a mass of protesters that had been rallying at the U.S. Consulate in support of civil rights activists in Alabama on March 16, 1966..jpg",7
+63,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\The George Floyd mural at 38th in Chicago in summer 2020..jpg",7
+64,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Rosa Parks has her fingerprints taken after being arrested for boycotting public transportation in Montgomery, Alabama. February 1956..jpg",7
+65,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Police carry a young woman into a patrol wagon during a civil rights demonstration in Brooklyn, New York. 1963..jpg",7
+66,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two terrified African-American girls flee police officers during a race riot in the Bedford-Stuyvesant neighborhood of Brooklyn on July 21, 1964..jpg",7
+67,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Three demonstrators join hands to build strength against the force of water sprayed by riot police in Birmingham, Alabama, during a protest of segregation practices. May 4, 1963..jpg",7
+68,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young protesters try to avoid the blast of a fire hose during a civil rights protest in Birmingham, Alabama on May 7, 1963..jpg",7
+69,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Vigilantes burn record press building in Wilmington Race Riot. 1898..jpg",7
+70,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Trail of Tears 1839. Painting by Max Standley..jpg",7
+71,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\This scene occurred at Fulton St. and Nostrand Ave., in Brooklyn's Bedford-Stuyvesant section. July 21, 1964..jpg",7
+72,"C:\Users\tyler\Documents\Mosaic Project\Mosaic Tiles\Two young girls join hands while riding the bus together during the initial phases of the integration of the school system in Boston, Massachusetts. September 15, 1975..jpg",7
