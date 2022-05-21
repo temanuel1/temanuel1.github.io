@@ -555,7 +555,7 @@
         var getPopUpImageWithName = function (x,y,callback) {
             var tile = getTileObject(x,y);
             popUpText = tile === null || tile.imageUrl === null ? "No information available" : '<a href="' + tile.imageUrl + '" target="TileImage"><img src="' + tile.imageUrl + '" width=300 /><br></a>' 
-                + '<center>' + tile.imageName + ' (used ' + tile.imageUsageCount + ' times)</center>';
+                + '<center>' + tile.imageName;
             showPopUpWindow(popUpText,callback);
         };
 
